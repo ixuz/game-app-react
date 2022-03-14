@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "RobotoMono";
+  src: local("RobotoMono"),
+    url(./fonts/RobotoMono/RobotoMono-Regular.ttf) format("truetype");
+}
+
+body {
+  font-family: "RobotoMono", sans-serif;
+  background-image: url("images/background.png");
+}
